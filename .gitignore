@@ -1,0 +1,3 @@
+# data directory - if this doesn't exist locally, the script will create it
+data/
+
