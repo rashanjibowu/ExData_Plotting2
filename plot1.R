@@ -70,7 +70,7 @@ drawPlot <- function() {
 
     # plot parameters
     title <- expression("Total " * PM[2.5] * " Emissions By Year")
-    yLabel <- expression("Total " * PM[2.5] * " Emissions (tons)")
+    yLabel <- expression("Total " * PM[2.5] * " Emissions (KILOTONS)")
     xLabel <- c("Year")
 
     # create directory if it does not already exist
